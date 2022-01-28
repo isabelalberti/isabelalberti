@@ -24,8 +24,8 @@ Entrei na área de TI e descobri uma paixão.</h3>
     <a href="https://www.linkedin.com/in/isabel-alberti target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
-  <H2 align="center"> GitHub Status </h2>
+ <H2 align="center"> GitHub Status </h2>
 
-[![IsabelAlberti GitHub stats](https://github-readme-stats.vercel.app/api?username=isabelalberti&hide=issues,contribs&count_private=true)](https://github.com/isabelalberti/github-readme-stats)
+<img width='500' src="https://github-readme-stats.vercel.app/api?username=isabelalberti"/> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabelalberti&langs_count=8&layout=compact)](https://github.com/isabelalberti/github-readme-stats)
+<img width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelalberti&langs_count=8&layout=compact"/>
