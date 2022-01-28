@@ -5,6 +5,13 @@
 <p>
   <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"   alt="Pessoa Digitando" width="300" align="middle">
   </p>
+  
+  <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/isabelalberti/count.svg" />
+</p>
+
+<H2 align="center"> About me </h2>
 
 <h3 align="justify"> Me considero uma pessoa muito protetora, defendo quem está comigo, luto por minha equipe, minha família, meus amigos, aqueles que estão comigo, porém sou justa, não defendo erros, eu gosto de trocar uma ideia e chegar a um consenso e, se eu estiver errada gosto que discutam comigo também.
 Me comunico bem com as pessoas, gosto de conversar, sou muito animada e colaborativa, se pedir algo eu tentarei fazer.
