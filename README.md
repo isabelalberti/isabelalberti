@@ -1,10 +1,13 @@
-<h1 align="center"> Oiee! (●'◡'●) ---> I'm Isabel Alberti </h1>
-
-<h2 align="center">Estudante de Java fullstack na Generation Brasil </h2>
+<h1 align="center"> Oiee! (●'◡'●) Sou Isabel Alberti </h1>
 
 <p>
-  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"   alt="Pessoa Digitando" width="300" align="middle">
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"  alt="Pessoa Digitando" width="300">
   </p>
+
+🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemapela Estácio (EAD).
+📚 Bootcamps: Generation Brasil (Dev FullStack Java JR).
+🎯 Estou focada em alcançar meu objetivo de me tornar uma Desenvolvedora.
+😄 Pronomes: Ela / Dela ...
   
   <p align="center"> 
   Visitor count<br>
