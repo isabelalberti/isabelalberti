@@ -4,10 +4,10 @@
   <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"  alt="Pessoa Digitando" width="300">
   </p>
 
-🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemapela Estácio (EAD).
-📚 Bootcamps: Generation Brasil (Dev FullStack Java JR).
-🎯 Estou focada em alcançar meu objetivo de me tornar uma Desenvolvedora.
-😄 Pronomes: Ela / Dela ...
+🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemapela Estácio (EAD).<br>
+📚 Bootcamps: Generation Brasil (Dev FullStack Java JR).<br>
+🎯 Estou focada em alcançar meu objetivo de me tornar uma Desenvolvedora.<br>
+😄 Pronomes: Ela / Dela ...<br>
   
   <p align="center"> 
   Visitor count<br>
